@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.js": "/real-estate/static/js/main.dd3facf3.chunk.js",
+    "main.js.map": "/real-estate/static/js/main.dd3facf3.chunk.js.map",
+    "runtime-main.js": "/real-estate/static/js/runtime-main.27cf8cf6.js",
+    "runtime-main.js.map": "/real-estate/static/js/runtime-main.27cf8cf6.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/real-estate/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.459435eb.chunk.js": "/real-estate/static/js/2.459435eb.chunk.js",
+    "static/js/2.459435eb.chunk.js.map": "/real-estate/static/js/2.459435eb.chunk.js.map",
+    "index.html": "/real-estate/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/real-estate/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/js/2.459435eb.chunk.js.LICENSE.txt": "/real-estate/static/js/2.459435eb.chunk.js.LICENSE.txt",
+    "static/media/home-1.ce532070.jpg": "/real-estate/static/media/home-1.ce532070.jpg",
+    "static/media/home-2.de81b194.jpg": "/real-estate/static/media/home-2.de81b194.jpg",
+    "static/media/house-1.87e56bd0.jpg": "/real-estate/static/media/house-1.87e56bd0.jpg",
+    "static/media/house-2.ca344d14.jpg": "/real-estate/static/media/house-2.ca344d14.jpg",
+    "static/media/house-3.b8266d2a.jpg": "/real-estate/static/media/house-3.b8266d2a.jpg",
+    "static/media/house-4.da59095b.jpg": "/real-estate/static/media/house-4.da59095b.jpg",
+    "static/media/house-5.d7b44bcc.jpg": "/real-estate/static/media/house-5.d7b44bcc.jpg",
+    "static/media/house-6.71b025ca.jpg": "/real-estate/static/media/house-6.71b025ca.jpg",
+    "static/media/house-7.9f67aae1.jpg": "/real-estate/static/media/house-7.9f67aae1.jpg",
+    "static/media/house-8.85d6a244.jpg": "/real-estate/static/media/house-8.85d6a244.jpg",
+    "static/media/interior-1.2de9cd4e.jpg": "/real-estate/static/media/interior-1.2de9cd4e.jpg",
+    "static/media/kitchen-1.107b88d8.jpg": "/real-estate/static/media/kitchen-1.107b88d8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27cf8cf6.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.459435eb.chunk.js",
+    "static/js/main.dd3facf3.chunk.js"
+  ]
+}
