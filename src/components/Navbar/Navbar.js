@@ -103,7 +103,7 @@ const Navbar = ({ toggle }) => {
 
   return (
     <Nav style={ style }>
-      <Logo to="/">EVEL</Logo>
+      <Logo to="/">ICARUS</Logo>
       <MenuBars onClick={ toggle }/>
       <NavMenu>
         { menuData.map((item, index) => (
